@@ -6,7 +6,7 @@ Competitive Programmer and Web Developer
 
 * ✉️  You can contact me at [nikhilald25@gmail.com](mailto:nikhilald25@gmail.com)
 * 🧠  I'm learning Full Stack Development
-* ⚡  C++, Javascript, C++, React, Python, Node, Express and MongoDB
+* ⚡  C++, Javascript, React, Python, Node, Express and MongoDB
 
 <a href="https://www.twitter.com/NikhilK48710304" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/NikhilK48710304?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
